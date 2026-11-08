@@ -1,0 +1,8 @@
+# данные кейса не публикуются
+data/*
+!data/.gitkeep
+*.xlsx
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
